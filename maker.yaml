@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/schmiddim/freecad-action/refs/tags/v3.0.0/schemas/maker.schema.json
+name: "Josef"
+bio: "Wanna be maker but no time."
+links:
+  github: "https://github.com/JosefGst"
+  # makerworld: "https://makerworld.com/en/@..."
+  # thingiverse: "https://www.thingiverse.com/..."
+  # printables: "https://www.printables.com/@..."

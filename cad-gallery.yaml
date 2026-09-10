@@ -1,0 +1,5 @@
+title: "Josef's FreeCAD Models"
+freecad_dir: "vibration_feeder"
+
+output_dir: "gallery"          # Where the HTML gallery is generated
+exports_dir: "exports"         # Where STL exports go
